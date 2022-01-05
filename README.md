@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Benlewis9000
+- 🎓 I'm a Computer Science graduate, currently working as a Software Engineer
+- ☕ My favourite language are Java and C#, and my current projects mostly consist of Spigot plugins
+- 🍃 Notable projects on my page include an Ecology Simulator written in C++/OpenGL, and a flex-bison TinyBasic compiler and IDE
